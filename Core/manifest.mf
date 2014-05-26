@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.shanaconsulting.virtual.core
+OpenIDE-Module-Install: com/shanaconsulting/virtual/core/H2DatabaseInstaller.class
+OpenIDE-Module-Localizing-Bundle: com/shanaconsulting/virtual/core/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+
